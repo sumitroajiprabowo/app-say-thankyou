@@ -1,2 +1,8 @@
 github.com/sumitroajiprabowo/go-say-thankyou v1.0.1 h1:3FRD5S4idGpn2moU1dbA+gYR+EZCuFvjmnrT6Josf4M=
 github.com/sumitroajiprabowo/go-say-thankyou v1.0.1/go.mod h1:7dwLa7MJeOMlF7J9X0acNL1PRGgECv1t8aZ/Vn8zNts=
+github.com/sumitroajiprabowo/go-say-thankyou v1.0.2 h1:gqeLCAVjhYrjOWtSvdpI//zyBeIo96g1/QY9F9M17gI=
+github.com/sumitroajiprabowo/go-say-thankyou v1.0.2/go.mod h1:7dwLa7MJeOMlF7J9X0acNL1PRGgECv1t8aZ/Vn8zNts=
+github.com/sumitroajiprabowo/go-say-thankyou/v2 v2.0.0 h1:FFxsIvpLdIyEODxAww4xMYB749a99KtsrPlPsyBG7ag=
+github.com/sumitroajiprabowo/go-say-thankyou/v2 v2.0.0/go.mod h1:tQUlTTc6z/xb8bpysvTMQfZcqyMDBt+jYuYi1KiQHic=
+github.com/sumitroajiprabowo/go-say-thankyou/v2 v2.0.1 h1:HjiY2WexdLnE7635jro7WrBllbUn5K3s3KaBLQ3fIdg=
+github.com/sumitroajiprabowo/go-say-thankyou/v2 v2.0.1/go.mod h1:tQUlTTc6z/xb8bpysvTMQfZcqyMDBt+jYuYi1KiQHic=
